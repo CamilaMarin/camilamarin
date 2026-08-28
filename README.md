@@ -98,7 +98,7 @@ Siempre abierta a conversar sobre tecnología, colaboraciones y nuevas
 oportunidades.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilamarin)
-[![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camila.marin.g@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camila.marin.g+github@gmail.com)
 [![Website](https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=white)](https://camilamarin.github.io)
 
 <br />
