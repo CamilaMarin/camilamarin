@@ -2,7 +2,7 @@
 
 <img src="assets/header.png" width="100%" alt="Camila Marín González" />
 
-# CAMILA MARÍN
+# CAMILA MARÍN GONZÁLEZ
 
 ### Backend Engineer · DevOps · AI Engineering
 
