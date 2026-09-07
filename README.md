@@ -126,18 +126,15 @@ público por acuerdo de confidencialidad.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=camilamarin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamarin&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=camilamarin&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuciones" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=camilamarin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=camilamarin&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
 
 </div>
 
 ## 🕓 Actividad reciente
 
-<!--START_SECTION:activity-->
-<!-- Esta sección se actualiza sola con la GitHub Action del workflow -->
-<!--END_SECTION:activity-->
+<!-- RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:end -->
 
 ## 💜 Conectemos
 
