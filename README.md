@@ -49,7 +49,7 @@ esa base hacia productos con IA aplicada.
 
 ## 📂 Proyectos destacados
 
-### 📚 [EntreLíneas](https://github.com/camilamarin/entrelineas)
+### 📚 [EntreLíneas](https://github.com/CamilaMarin/library-platform)
 Plataforma para clubes de lectura con funcionalidades impulsadas por
 IA — gestión de libros, grupos de lectura, recomendaciones.
 
