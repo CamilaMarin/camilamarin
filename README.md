@@ -133,8 +133,8 @@ público por acuerdo de confidencialidad.
 
 ## 🕓 Actividad reciente
 
-<!-- RECENT_ACTIVITY:start -->
-<!-- RECENT_ACTIVITY:end -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## 💜 Conectemos
 
