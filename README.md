@@ -134,7 +134,7 @@ público por acuerdo de confidencialidad.
 ## 🕓 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [CamilaMarin/sky](https://github.com/CamilaMarin/sky)<br>
+1. ⭐ Starred [cindychateau/Especializacion-IA-Accenture-2026](https://github.com/cindychateau/Especializacion-IA-Accenture-2026)<br>
 2. ⬆️ Pushed undefined commit(s) to [CamilaMarin/sky](https://github.com/CamilaMarin/sky)<br>
 3. ⬆️ Pushed undefined commit(s) to [CamilaMarin/sky](https://github.com/CamilaMarin/sky)<br>
 4. ⬆️ Pushed undefined commit(s) to [CamilaMarin/sky](https://github.com/CamilaMarin/sky)<br>
