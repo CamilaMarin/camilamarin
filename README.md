@@ -135,10 +135,10 @@ público por acuerdo de confidencialidad.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [CamilaMarin/sky](https://github.com/CamilaMarin/sky)<br>
-2. ⬆️ Pushed undefined commit(s) to [CamilaMarin/sky](https://github.com/CamilaMarin/sky)<br>
-3. ⭐ Starred [cindychateau/Especializacion-IA-Accenture-2026](https://github.com/cindychateau/Especializacion-IA-Accenture-2026)<br>
+2. ⬆️ Pushed undefined commit(s) to [CamilaMarin/Proyecto-IA-Skillnest](https://github.com/CamilaMarin/Proyecto-IA-Skillnest)<br>
+3. ⬆️ Pushed undefined commit(s) to [CamilaMarin/sky](https://github.com/CamilaMarin/sky)<br>
 4. ⬆️ Pushed undefined commit(s) to [CamilaMarin/sky](https://github.com/CamilaMarin/sky)<br>
-5. ⬆️ Pushed undefined commit(s) to [CamilaMarin/sky](https://github.com/CamilaMarin/sky)<br>
+5. ⭐ Starred [cindychateau/Especializacion-IA-Accenture-2026](https://github.com/cindychateau/Especializacion-IA-Accenture-2026)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 💜 Conectemos
