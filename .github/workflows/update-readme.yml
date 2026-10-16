@@ -1,18 +1,36 @@
 name: Update README activity
-
 on:
   schedule:
-    - cron: '0 */6 * * *' # cada 6 horas
+    - cron: '0 */6 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Verify activity formatter
+        run: node --test tests/update-activity.test.mjs
+      - name: Update public activity
+        run: node scripts/update-activity.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit activity changes
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md
+          git commit -m 'docs: actualizar actividad pública'
+          git push
