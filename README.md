@@ -6,9 +6,7 @@
 
 ### Backend Engineer · DevOps · AI Engineering
 
-Ingeniera Civil en Informática con **más de 8 años de experiencia en desarrollo backend, integración de sistemas y operación de plataformas**, incluyendo coordinación técnica y aplicaciones de NLP y aprendizaje automático.
-
-Desarrollo APIs, integro servicios y automatizo procesos principalmente con Python y Go.
+Ingeniera Civil en Informática con **más de 8 años de experiencia** en backend, integración y operación de plataformas. Python y Go, coordinación técnica y NLP/ML aplicado en producción.
 
 ![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7c5cff)
 ![Go](https://img.shields.io/badge/Go-1a1b27?style=for-the-badge&logo=go&logoColor=7c5cff)
@@ -24,62 +22,30 @@ Desarrollo APIs, integro servicios y automatizo procesos principalmente con Pyth
 
 ## 👩‍💻 Sobre mí
 
-- Ingeniera Civil en Informática y Magíster en Ingeniería Informática por la Universidad de Santiago de Chile.
-- Experiencia en backend, integración y operación de plataformas con Python, Go, Docker y Linux, para instituciones académicas, organismos públicos y empresas privadas.
-- Actualmente desarrollo software de forma independiente; complemento mi experiencia backend con React y TypeScript en proyectos personales.
-- Experiencia productiva en NLP y aprendizaje automático con Python; actualmente profundizando en IA generativa, LLM y RAG.
-- Chile · Abierta a oportunidades remotas · Inglés intermedio orientado a lectura de documentación técnica.
+- Backend y DevOps para instituciones académicas, organismos públicos y empresas privadas; actualmente trabajo de forma independiente.
+- Experiencia productiva en NLP y aprendizaje automático. Profundizando en **LLM y RAG**.
+- Chile · Abierta a oportunidades remotas · Inglés intermedio para lectura técnica.
 
 ## 🛠️ Proyectos destacados
 
-### BlackPhone · Proyecto profesional
+**BlackPhone** · Gestión de reparaciones con APIs, datos y autenticación.
+`Python · FastAPI · PostgreSQL · Docker` · Proyecto profesional, código privado.
 
-Plataforma de gestión para talleres de reparación electrónica: órdenes, clientes, dispositivos, seguimiento de estados e historial técnico. Desarrollo de APIs REST, modelo relacional, autenticación JWT y despliegue con Docker.
+**EntreLíneas** · Plataforma para libros y grupos de lectura, en desarrollo.
+`Python · FastAPI · PostgreSQL` · [Código](https://github.com/CamilaMarin/library-platform)
 
-`Python` · `FastAPI` · `PostgreSQL` · `JWT` · `Docker`
+**How Was the Sky?** · Clima histórico y comparación de cumpleaños, en español e inglés.
+`React · TypeScript · APIs` · [Código](https://github.com/CamilaMarin/sky) · [Demo](https://camilamarin.github.io/sky/)
 
-**Código privado** por acuerdo de confidencialidad. Caso profesional que puedo describir públicamente.
-
-### [EntreLíneas](https://github.com/CamilaMarin/library-platform)
-
-Plataforma para organizar libros y grupos de lectura. Proyecto personal en desarrollo.
-
-`Python` · `FastAPI` · `PostgreSQL` · `Docker`
-
-[Código](https://github.com/CamilaMarin/library-platform)
-
-### [How Was the Sky?](https://github.com/CamilaMarin/sky)
-
-Aplicación bilingüe para explorar el clima de una fecha y comparar cumpleaños a lo largo de los años. Integra datos históricos, búsqueda geográfica, estadísticas y tarjetas para compartir resultados, con pruebas para búsquedas, fechas y procesamiento de datos.
-
-`React` · `TypeScript` · `Open-Meteo` · `GeoNames`
-
-[Código](https://github.com/CamilaMarin/sky) · [Demo](https://camilamarin.github.io/sky/)
-
-### [FocusRoom](https://github.com/CamilaMarin/focusroom)
-
-PWA para sesiones de concentración con temporizador, audio ambiental y registro local. Combina archivos de sonido con ruido generado mediante Web Audio API.
-
-`React` · `TypeScript` · `PWA` · `Web Audio API`
-
-[Código](https://github.com/CamilaMarin/focusroom) · [Demo](https://camilamarin.github.io/focusroom/)
-
-## 🏗️ Experiencia profesional seleccionada
-
-Casos descritos sin identificar proyectos ni instituciones cliente.
-
-- **Análisis de información para detección de emergencias:** participé en soluciones productivas de NLP con Python para analizar un stream de Twitter. Apliqué Biterm Topic Modeling, clasificación supervisada con SVM y extracción de ubicaciones, abordando procesamiento continuo, falsos positivos y validación de información relevante para autoridades.
-- **Plataforma de reportes para instituciones:** implementé un bot de Telegram y guié la evolución a una PWA. Definí y mantuve despliegues con Docker Compose para aproximadamente 18–20 instancias, al menos 10 en producción. Coordiné backend y servidores para incorporar contenedores, monitoreo y documentación básica.
-- **Plataforma universitaria de inscripción de asignaturas:** estuve a cargo del equipo backend, coordinando monitoreo, consultas técnicas de freelancers, capacitaciones y documentación de incorporación. Implementé y probé automatizaciones con Jenkins para levantar microservicios tras cambios en el repositorio, en desarrollo y QA.
+**FocusRoom** · Temporizador, audio ambiental y registro local para concentrarte.
+`React · TypeScript · PWA` · [Código](https://github.com/CamilaMarin/focusroom) · [Demo](https://camilamarin.github.io/focusroom/)
 
 ## 🧭 Cómo trabajo
 
-- **Diseño y alcance:** aclaro el problema, los requisitos y las decisiones técnicas antes de implementar.
-- **Automatización:** busco procesos repetibles para despliegues, integración y tareas operativas.
-- **Calidad:** incorporo pruebas y validaciones según los riesgos de cada solución, incluyendo casos límite y errores de integración.
-- **Colaboración:** coordino decisiones técnicas con equipos multidisciplinarios y comunico sus implicancias.
+Defino alcance y diseño, automatizo tareas repetibles, valido casos límite y coordino decisiones con equipos multidisciplinarios.
 
-## 🧩 Stack técnico
+<details>
+<summary>🧩 Stack completo y niveles de experiencia</summary>
 
 **Backend**
 
@@ -154,6 +120,9 @@ LLM y RAG en formación.
 
 Utilizo Kiro como apoyo durante el desarrollo y reviso sus resultados.
 
+
+</details>
+
 <details>
 <summary>📈 Estadísticas y actividad de GitHub</summary>
 
@@ -178,7 +147,5 @@ Utilizo Kiro como apoyo durante el desarrollo y reviso sus resultados.
 </details>
 
 ## ✉️ Conectemos
-
-Siempre abierta a conversar sobre tecnología, colaboraciones y nuevas oportunidades.
 
 [Portafolio](https://camilamarin.github.io/) · [LinkedIn](https://www.linkedin.com/in/camilamarin/) · [Email](mailto:camila.mg.work@gmail.com)
