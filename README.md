@@ -141,7 +141,6 @@ Utilizo Kiro como apoyo durante el desarrollo y reviso sus resultados.
 - Actualicé código en [CamilaMarin/Proyecto-IA-Skillnest](https://github.com/CamilaMarin/Proyecto-IA-Skillnest).
 - Actualicé código en [CamilaMarin/camilamarin.github.io](https://github.com/CamilaMarin/camilamarin.github.io).
 - Actualicé código en [CamilaMarin/sky](https://github.com/CamilaMarin/sky).
-- Creé una referencia en [CamilaMarin/Proyecto-IA-Skillnest](https://github.com/CamilaMarin/Proyecto-IA-Skillnest).
 <!--RECENT_ACTIVITY:end-->
 
 </details>
